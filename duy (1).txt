@@ -33,7 +33,7 @@ end
   local DiscordLib = loadstring(game:HttpGet('https://raw.githubusercontent.com/Duy02022007/Discord-Lib/main/New'))()   
    local win = DiscordLib:Window("[Khánh Ngọc] ".." ")   
 local per = game:GetService("Players").LocalPlayer.Name
- DiscordLib:Notification("Premium Stars ⭐ Share","Hello! ".."⭐"..per..".                                              ".." Thanks For Buy Premium ","Ok") 
+ DiscordLib:Notification("tỏ tình crush dell đc","lô con cak".."⭐"..per..".                                              ".." tỏ tình éo đc 😭😭","Ok") 
  
   local serv = win:Server("Khánh Ngọc", "")  
   local drops = serv:Channel("❕Farm+LocalPlayer")  
