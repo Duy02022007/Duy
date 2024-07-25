@@ -701,7 +701,7 @@ tgls:Toggle("Auto God Box X5⭐",false, function(v)
 getgenv().autogod = v 
  while autogod do task.wait()
  pcall(function()
-for _ = 2,0 do
+for _ = 1.5 do
  fireclickdetector(game:GetService("Workspace")["Platinum Town [ 2000 - 3000 ]"].PlatinumMAP.GodBox.ClickDetector)
 end
  end) 
@@ -725,7 +725,7 @@ end
  getgenv().auto1 = v
  spawn(function() 
  while auto1 do task.wait() 
-for _ = 3,0 do
+for _ = 1.5 do
  fireclickdetector(game:GetService("Workspace")["Marine Island [ 3000 - 5000 ]"]["Secret Random"].RANDOM)
 end
  end 
