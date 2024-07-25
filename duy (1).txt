@@ -210,7 +210,7 @@ game:GetService("Workspace")["Cursed Island [  50000+ ]"]["Sukuna Quest [ Lv 50.
 elseif quest == "Grab" and quest ~= nil then
 game:GetService("Workspace")["Grab  Island [ Lv 100000+ ]"]["Grab Quest [ Lv 100.000+ ]"].Quest.QuestTake.QuestTake.Accept2.RemoteEvent:FireServer()   
  elseif quest == "Cid" and quest ~= nil then
-game:GetService("Workspace")["Cid  Island [ Lv 200000+ ]"]["Cid Quest [ Lv 200.000+ ]"].Quest.QuestTake.QuestTake.Accept2.RemoteEvent:FireServer()   
+game:GetService("Workspace")["Atomic  Island [ Lv 200000+ ]"]["Cid Quest [ Lv 200.000+ ]"].Quest.QuestTake.QuestTake.Accept3.RemoteEvent:FireServer()   
    end   
    end)   
    end   
@@ -701,7 +701,7 @@ tgls:Toggle("Auto God Box X5⭐",false, function(v)
 getgenv().autogod = v 
  while autogod do task.wait()
  pcall(function()
-for _ = 3,0 do
+for _ = 2,0 do
  fireclickdetector(game:GetService("Workspace")["Platinum Town [ 2000 - 3000 ]"].PlatinumMAP.GodBox.ClickDetector)
 end
  end) 
