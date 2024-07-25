@@ -1,4 +1,4 @@
-local Notif = loadstring(game:HttpGet("https://raw.githubusercontent.com/ginchao/Hoclomcongthuc/main/noitification%20"))()
+local Notif = loadstring(game:HttpGet("https://raw.githubusercontent.com/Duy02022007/Hoclomcongthuc/main/noitification"))()
 function df()
 local args = {
     [1] = value
