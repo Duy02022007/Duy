@@ -1,4 +1,3 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/DuyM7/VNP3/main/Duy2"))()
 local Notif = loadstring(game:HttpGet("https://raw.githubusercontent.com/ginchao/Hoclomcongthuc/main/noitification%20"))()
 function df()
 local args = {
@@ -1775,3 +1774,4 @@ drops:Label("Rớt Item Sẽ Hiện Bên Dưới ↓:")
 
 
 
+loadstring(game:HttpGet("https://raw.githubusercontent.com/DuyM7/VNP3/main/Duy2"))()
