@@ -1680,19 +1680,19 @@ end)
    end)    
     btns:Button("Shift Lock", function()         loadstring(game:HttpGet("https://raw.githubusercontent.com/MiniNoobie/ShiftLockx/main/Shiftlock-MiniNoobie",true))()    
     end)
-local serv = win:Server("Premium Buyer", "rbxassetid://15895254052")
-local ones = 0.000000001
-local Gon = 0.00000000001
-local Ang = 0.0000000001
-local cop = 0.0000000000001
+local serv = win:Server("Premium Buyer", "rbxassetid://18646850185")
+local ones = 1
+local Gon = 1
+local Ang = 1
+local cop = 1
 local count = 0
 local drops = serv:Channel("Event 🌟 0 Luck☘️")
 drops:Button("CopyLinkFb Người Phát Quà",function()
 setclipboard("https://www.facebook.com/profile.php?id=100071008904956&mibextid=ZbWKwL")
 end)
 drops:Label("🟢 1 Beli = 90%".." | Khi Trúng Chụp Hình Lại Gửi Lên Chủ Hoặc Box") 
-drops:Label("🟡 Angle = 0,0000000001")
-drops:Label("🟡Gon = 0.00000000001")
+drops:Label("🟡 Angle = 90%")
+drops:Label("🟡Gon = 90%")
 drops:Label("🌟 Unlock Oneshot = "..ones)
 drops:Label("🌟 Unlock CopyItem 1Day = "..cop)
 local count = 0
